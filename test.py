@@ -6,4 +6,4 @@ else:
     print("else")
 print("hi")
 print("123")
-print("2")
+print("test")
